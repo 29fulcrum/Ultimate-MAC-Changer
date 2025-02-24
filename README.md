@@ -16,9 +16,9 @@
 # Usage
 1. `cd ultimate-mac-changer`
 2. `sudo python3 umc.py --help`
-4. `sudo python3 umc.py -i wlan0 -m 00:00:00:00:00:00`
+3. `sudo python3 umc.py -i wlan0 -m 00:00:00:00:00:00`
 
-5. # License
+# License
 <a href="https://github.com/badpseudo/Ultimate-MAC-Changer/blob/main/LICENSE" title="LICENSE">
   <img src="https://img.shields.io/static/v1?label=&message=LICENSE&color=blue&logo=github" alt="LICENSE">
 </a>

@@ -15,7 +15,7 @@
 
 # Usage
 1. `cd ultimate-mac-changer`
-2. `-i, (--interface) [wlan0, eth0], -m, (--mac) YOUR_NEW_MAC_ADDRESS` or `sudo python3 umc.py --help`
+2. `sudo python3 umc.py --help`
 4. `sudo python3 umc.py -i wlan0 -m 00:00:00:00:00:00`
 
 5. # License

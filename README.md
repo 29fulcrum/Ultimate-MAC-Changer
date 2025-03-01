@@ -8,7 +8,7 @@
   <img src="https://discord.com/api/guilds/1336059889524670534/widget.png?style=shield" alt="Discord Shield"/>
 </div>
 
-![umc](https://github.com/user-attachments/assets/41489646-5d9b-4410-a5f6-0280373981db)
+![umc](https://github.com/user-attachments/assets/fb1865cd-4f4d-4607-a90e-dee44d5e19d5)
 
 # Requirements
 [python3](https://www.python.org/downloads/)

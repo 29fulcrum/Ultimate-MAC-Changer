@@ -1,8 +1,8 @@
 # 🛡𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐄 𝐌𝐀𝐂 𝐂𝐇𝐀𝐍𝐆𝐄𝐑🛡
 
 <div align="center">
-<a href="https://github.com/robberinhood/Ultimate-MAC-Changer" title="Go to GitHub repo">
-  <img src="https://img.shields.io/static/v1?label=robberinhood&message=Ultimate-MAC-Changer&color=purple&logo=github" alt="robberinhood - Ultimate-MAC-Changer">
+<a href="https://github.com/thepseudonym/Ultimate-MAC-Changer" title="Go to GitHub repo">
+  <img src="https://img.shields.io/static/v1?label=thepseudonym&message=Ultimate-MAC-Changer&color=purple&logo=github" alt="thepseudonym - Ultimate-MAC-Changer">
 </a>
   <a href="https://discord.gg/VQUvAVpJPr" style="text-decoration: none;">
   <img src="https://discord.com/api/guilds/1336059889524670534/widget.png?style=shield" alt="Discord Shield"/>
@@ -19,7 +19,7 @@
 3. `sudo python3 umc.py -i wlan0 -m 00:00:00:00:00:00`
 
 # License
-<a href="https://github.com/robberinhood/Ultimate-MAC-Changer/blob/main/LICENSE" title="LICENSE">
+<a href="https://github.com/thepseudonym/Ultimate-MAC-Changer/blob/main/LICENSE" title="LICENSE">
   <img src="https://img.shields.io/static/v1?label=&message=LICENSE&color=blue&logo=github" alt="LICENSE">
 </a>
 

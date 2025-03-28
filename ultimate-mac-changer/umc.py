@@ -1,10 +1,4 @@
-#      _.---._
-#  ,  /~~~ ~~~\  ,          
-#  |\| (0)|(0) |/|
-#  |, |  'V'  | ,|   
-#  |_/\  /_\  /\_| 
-#       \___/   
-#    RobberInHood
+#Coded by: thepseudonym
 
 import subprocess
 import optparse

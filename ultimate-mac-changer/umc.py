@@ -1,4 +1,4 @@
-#Coded by: thepseudonym
+#Coded by: 29fulcrum
 
 import subprocess
 import optparse
